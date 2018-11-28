@@ -1,2 +1,6 @@
 hellow world
-git is a distributed version control systtem
+git is a distributed version control systte
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+
